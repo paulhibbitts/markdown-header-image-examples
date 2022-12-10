@@ -1,7 +1,9 @@
 ![Photo of Mountain](images/chase-moyer-730496-unsplash.jpg ':class=header-image-fade')
 
-<br/><br/><br/><br/><br/>
-
+  
+  
+  
+  
 # My **Open Publishing** Space
 
 ## Create, Share and Collaborate
