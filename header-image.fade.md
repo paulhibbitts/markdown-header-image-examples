@@ -1,6 +1,6 @@
 ![Photo of Mountain](images/mountain.jpg ':class=header-image-fade')
 
- <br/> <br/> <br/>
+ <br/> <br/> <br/> <br/> <br/>
  
 # My **Open Publishing** Space
 
