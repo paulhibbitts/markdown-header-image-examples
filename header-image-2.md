@@ -1,4 +1,4 @@
-![Photo of Mountain](images/chase-moyer-730496-unsplash.jpg ':class=header-image')
+![Photo of Mountain](images/chase-moyer-730496-unsplash.jpg ':class=header-image-full-width')
 
 # My **Open Publishing** Space
 
